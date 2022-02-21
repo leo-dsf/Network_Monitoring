@@ -11,6 +11,19 @@ $ git clone https://github.com/leo-dsf/Network_Monitoring
 ```
 
 ## How To Run
+# Flags
+* ```bash -p (number of interfaces) (seconds)```
+* ```bash -t (seconds)```
+* ```bash -r (seconds)```
+* ```bash -T (seconds)```
+* ```bash -R (seconds)```
+* ```bash -v (seconds)```
+* ```bash -c regex (seconds)```
+* ```bash -l (seconds)```
+* ```bash -b (seconds)```
+* ```bash -k (seconds)```
+* ```bash -m (seconds)```
+
 * Run:
 ```bash
 $ ./netifstat.sh seconds
