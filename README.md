@@ -9,10 +9,8 @@ This project was developed under the Operating Systems course of [University of 
 ```bash
 $ git clone https://github.com/leo-dsf/Network_Monitoring
 ```
-
-## How To Run
-* ### Flags:
-- ```bash -p (number of interfaces) (seconds)```
+## Flags:
+* ```bash -p (number of interfaces) (seconds)```
 * ```bash -t (seconds)```
 * ```bash -r (seconds)```
 * ```bash -T (seconds)```
@@ -24,7 +22,7 @@ $ git clone https://github.com/leo-dsf/Network_Monitoring
 * ```bash -k (seconds)```
 * ```bash -m (seconds)```
 
-* ### Run:
+## How To Run
 ```bash
 $ ./netifstat.sh seconds
 ```
