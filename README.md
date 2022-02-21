@@ -10,17 +10,17 @@ This project was developed under the Operating Systems course of [University of 
 $ git clone https://github.com/leo-dsf/Network_Monitoring
 ```
 ## Flags
-* ```bash -p (number of interfaces) (seconds)```
-* ```bash -t (seconds)```
-* ```bash -r (seconds)```
-* ```bash -T (seconds)```
-* ```bash -R (seconds)```
-* ```bash -v (seconds)```
-* ```bash -c regex (seconds)```
-* ```bash -l (seconds)```
-* ```bash -b (seconds)```
-* ```bash -k (seconds)```
-* ```bash -m (seconds)```
+* ```bash -p (number of interfaces) time(seconds)```
+* ```bash -t time(seconds)```
+* ```bash -r time(seconds)```
+* ```bash -T time(seconds)```
+* ```bash -R time(seconds)```
+* ```bash -v time(seconds)```
+* ```bash -c "regex" time(seconds)```
+* ```bash -l time(seconds)```
+* ```bash -b time(seconds)```
+* ```bash -k time(seconds)```
+* ```bash -m time(seconds)```
 
 ## How To Run
 ```bash
