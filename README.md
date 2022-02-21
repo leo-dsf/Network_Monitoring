@@ -13,7 +13,7 @@ $ git clone https://github.com/leo-dsf/Network_Monitoring
 ## How To Run
 * Run:
 ```bash
-$ ./netifstat.sh **seconds
+$ ./netifstat.sh seconds
 ```
 
 ## Authors
