@@ -11,7 +11,7 @@ $ git clone https://github.com/leo-dsf/Network_Monitoring
 ```
 
 ## How To Run
-# Flags
+### Flags
 * ```bash -p (number of interfaces) (seconds)```
 * ```bash -t (seconds)```
 * ```bash -r (seconds)```
