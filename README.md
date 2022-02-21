@@ -7,7 +7,7 @@ This project was developed under the Operating Systems course of [University of 
 ## Installation
 * Clone the repository:
 ```bash
-$ git clone https://github.com/leo-dsf/Airlift_Simulation
+$ git clone https://github.com/leo-dsf/Network_Monitoring
 ```
 
 ## How To Run
