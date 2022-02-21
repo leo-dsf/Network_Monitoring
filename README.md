@@ -1,5 +1,5 @@
 # Network Monitoring
-Understanding of the mechanisms associated with the execution and synchronization of processes and threads, all managed by semaphores.
+Using Bash scripts to see some stats about network and display that on the terminal.
 
 ## Course
 This project was developed under the Operating Systems course of [University of Aveiro](https://www.ua.pt/).
