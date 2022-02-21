@@ -23,6 +23,7 @@ $ git clone https://github.com/leo-dsf/Network_Monitoring
 * ```bash -m time(seconds)```
 
 ## How To Run
+* Run:
 ```bash
 $ ./netifstat.sh flag(optional) time(seconds)
 ```
