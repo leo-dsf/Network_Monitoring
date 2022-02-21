@@ -11,14 +11,9 @@ $ git clone https://github.com/leo-dsf/Network_Monitoring
 ```
 
 ## How To Run
-* Compile with the following command (on the **/src/** directory):
+* Run:
 ```bash
-$ make all_bin
-```
-
-* Run (on the **/run/** directory):
-```bash
-$ ./probSemSharedMemAirLift.sh
+$ ./netifstat.sh (time in seconds)
 ```
 
 ## Authors
